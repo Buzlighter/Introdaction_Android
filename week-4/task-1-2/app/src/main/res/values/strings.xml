@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coursera_task</string>
+    <string name="settings">Настройки</string>
+    <string name="searching">Поиск</string>
+    <string name="exit">Выход</string>
+    <string name="google">Google</string>
+    <string name="yandex">Яндекс</string>
+    <string name="bing">Bing</string>
+    <string name="hint_editText">Введите текст</string>
+    <string name="button_search">ПОИСК</string>
+    <string name="no_choice">Поисковая Система Не Выбрана </string>
+</resources>
